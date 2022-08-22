@@ -5,9 +5,9 @@
 // RECODE BY OSCAR OFC
 
 //=============『 Utama 』================== //
-global.owner = ['6285850539404','79609055704'] 
+global.owner = ['6289516947204','6289516947204'] 
 global.mods = [''] 
-global.prems = ['6285850539404'] 
+global.prems = ['6289516947204'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'iyan-store'
