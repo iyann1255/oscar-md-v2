@@ -33,15 +33,15 @@ global.nomer = 'https://wa.me/6289516947204' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERBULAN Rp 15.000\nMAKSIMAL 2 GRUP\n》2 BULAN 25.000\nMAKSIMAL 3 GRUP \n》3 BULAN Rp 40.000\nMAKSIMAL 2 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya3 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg'
-global.fotonya8 = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //foto session
-global.donasi = 'https://telegra.ph/file/b6b25d5ff74febec06fb4.jpg' //ganti pakai poto payment atau apa
+global.fotonya1 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ini juga ganti
+global.fotonya3 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg'
+global.fotonya8 = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //foto session
+global.donasi = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '❋ཻུ۪۪⸙ʀᴄᴛɪ ʙᴏᴛ-MD⳹ ❋ཻུ۪۪'
@@ -50,7 +50,7 @@ global.wm2 = 'ᯤ creator by ʀᴄᴛɪ ʙᴏᴛ꧅'
 global.wm3 = 'ᯤ iyan 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
+global.media = 'https://telegra.ph/file/d1011c8e279a6bf8c62d8.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '⏳Tunggu kurang lebih 1 menit karna sedang diproses. . .'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
