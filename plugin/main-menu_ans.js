@@ -1,6 +1,6 @@
 const { default: makeWASocket, BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, downloadContentFromMessage, downloadHistory, proto, getMessage, generateWAMessageContent, prepareWAMessageMedia } = require('@adiwajshing/baileys')
 let fs = require('fs')
-let owner = 6285850539404
+let owner = +62 895-1694-7204
 let wa = '0'
 let handler = async (m) => {
 let jarot = `
@@ -16,14 +16,14 @@ let jarot = `
            hydratedButtons: [{
              urlButton: {
                displayText: '🔮GroupBot🔮',
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://mez.ink/botwhatsapp'
              }
 
            },
                 {
                urlButton: {
-               displayText: '🐻Youtube creator🐻',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               displayText: '🐻web creator🐻',
+               url: 'https://mez.ink/botwhatsapp'
              }
 
            },
